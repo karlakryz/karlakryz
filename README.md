@@ -1,8 +1,8 @@
-Olá,seja bem vindo!!!!
-Sou estudante de análise e desenvolvimento de sistemas pela Unicesumar.
-Estou fazendo alguns cursos em paralelos em programação.
-Estou em busca de aprendizado e também ajudar com algo que estou aprendendo.
-Bom é isso sou nova com tudo isso ,então toda ajuda é bem vinda..
+Hello welcome!!!! 
+I am a systems analysis and development student at Unicesumar. 
+I'm taking some parallel courses in programming. 
+I'm looking to learn and also help with something I'm learning. 
+Well, I'm new to all this, so any help is welcome.
 
 - 👋 Hi, I’m @karlakryz
 - 👀 I'm interested in learning more about programming languages.
