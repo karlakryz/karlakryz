@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @karlakryz
-- 👀 I’m interested in html5,css3,javascript .
+- 👀 I'm interested in learning more about programming languages.
 - 🌱 I’m currently learning programming logic, html5 and css3.
 - 💞️ I’m looking to collaborate on  with my learnings.
 - 📫 How to contact me, email:karlakryz@hotmail.com
